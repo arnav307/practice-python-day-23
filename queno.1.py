@@ -7,5 +7,5 @@ def counts(filename):
                 count+=1
         print(count)
         
-       
+        
 counts('file.txt')
